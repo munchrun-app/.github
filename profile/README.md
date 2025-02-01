@@ -42,10 +42,8 @@ We welcome contributions from the community! If you're interested in helping us 
 If you have any questions or feedback, feel free to:
 
 *   Join our Discord server: [Click Here](https://discord.gg/6TfycPfEDh)
-*   Contact us via email: [munchrun@finneh.xyz](mailto://munchrun@finneh.xyz)
-*   Check out our website: [Your Website Link]
-
-## License
+*   Contact us via email: [contact@munchrun.com.au](mailto:contact@munchrun.com.au)
+*   Check out our website: [Link](https://munchrun.com.au)
 
 ## Licensing
 
@@ -62,7 +60,7 @@ We believe this dual licensing approach allows us to:
 *   Protect the core principles of fairness and transparency that underpin the MunchRun platform.
 *   Provide flexibility for future development and partnerships.
 
-If you have any questions about MunchRun's licensing, please feel free to [contact us](mailto://munchrunlicensing@finneh.xyz).
+If you have any questions about MunchRun's licensing, please feel free to [contact us](mailto:licensing@munchrun.com.au).
 
 ---
 
